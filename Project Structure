@@ -1,0 +1,35 @@
+/ecommerce-platform
+│
+├── /admin
+│   ├── dashboard.php
+│   ├── products.php
+│   ├── orders.php
+│   ├── customers.php
+│   └── categories.php
+│
+├── /includes
+│   ├── config.php
+│   ├── db.php
+│   ├── functions.php
+│   ├── header.php
+│   └── footer.php
+│
+├── /assets
+│   ├── /css
+│   ├── /js
+│   └── /images
+│
+├── /classes
+│   ├── Product.php
+│   ├── User.php
+│   ├── Cart.php
+│   └── Order.php
+│
+├── index.php
+├── products.php
+├── product-details.php
+├── cart.php
+├── checkout.php
+├── login.php
+├── register.php
+└── profile.php
